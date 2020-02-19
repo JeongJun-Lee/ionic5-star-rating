@@ -1,4 +1,4 @@
-# Ionic 5 StarRating
+# Ionic 5 Star Rating
 
 This library was forked from https://github.com/melwinVincent/ionic4-star-rating for a test of Ionic 5.
 

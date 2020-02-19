@@ -4,7 +4,7 @@
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14",
-    "@ionic/angular": "^4.11.10"
+    "@ionic/angular": "^5.0.0"
   },
   "main": "bundles/ionic5-star-rating.umd.js",
   "module": "fesm5/ionic5-star-rating.js",

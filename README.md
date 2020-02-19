@@ -1,24 +1,13 @@
-# Ionic5StarRating
+# Ionic 5 StarRating
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.14.
+This library was forked from https://github.com/melwinVincent/ionic4-star-rating for a test of Ionic 5.
 
-## Code scaffolding
+## Install
 
-Run `ng generate component component-name --project ionic5-star-rating` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project ionic5-star-rating`.
-> Note: Don't forget to add `--project ionic5-star-rating` or else it will be added to the default project in your `angular.json` file. 
+Run `npm install --save https://github.com/JeongJun-Lee/ionic5-star-rating/tarball/master`
 
-## Build
+## How to use
 
-Run `ng build ionic5-star-rating` to build the project. The build artifacts will be stored in the `dist/` directory.
+Same as https://github.com/melwinVincent/ionic4-star-rating/blob/master/README.md
 
-## Publishing
-
-After building your library with `ng build ionic5-star-rating`, go to the dist folder `cd dist/ionic5-star-rating` and run `npm publish`.
-
-## Running unit tests
-
-Run `ng test ionic5-star-rating` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+But, there is only one change. Use this selector `ionic5-star-rating` in HTML template.
